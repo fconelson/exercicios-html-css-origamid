@@ -1,0 +1,40 @@
+body {
+  font-family: arial;
+  margin: 0px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.item {
+  background: #111;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 4px;
+}
+
+h2 {
+  margin: 0px;
+  color: #fff;
+}
+
+.price,
+.year,
+.km {
+  color: #febe01;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+a {
+  display: inline-block;
+  background: #febe01;
+  color: #332200;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
